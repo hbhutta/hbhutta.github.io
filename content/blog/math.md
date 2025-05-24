@@ -1,7 +1,8 @@
 +++
 title = 'Math'
 date = 2025-03-29T10:10:04-07:00
-draft = true
+tags = ["hugo", "metadata"]
+draft = false
 +++
 
 block math:
